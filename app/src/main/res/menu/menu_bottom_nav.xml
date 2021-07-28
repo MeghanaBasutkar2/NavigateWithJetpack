@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_frag"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="HOME" />
+    <item
+        android:id="@+id/bookmark_frag"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="BOOKMARK" />
+    <item
+        android:id="@+id/some4"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="BOOKMARK" />
+
+    <item
+        android:id="@+id/some5"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="BOOKMARK" />
+
+    <item
+        android:id="@+id/some6"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="BOOKMARK" />
+    <item
+        android:id="@+id/some7"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="BOOKMARK" />
+
+
+
+</menu>
